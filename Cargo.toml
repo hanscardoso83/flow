@@ -16,3 +16,4 @@ description = "A keyboard-first Kanban board for your terminal workflows"
 # drop an unused branch
 # guard against empty input
 # drop an unused branch
+# clarify the control flow
